@@ -2,8 +2,8 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "67sigma",
-    "password": "",
-    "type": "offline"
+    "password": "10000",
+    "type": "online"
   },
   "server": {
     "ip": "ZENOZ.aternos.me",
